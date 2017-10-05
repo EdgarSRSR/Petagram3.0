@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Petagram3.0</string>
+    <string name="menu_contacto">Contacto</string>
+    <string name="menu_acerca_de">Acerca de</string>
+    <string name="nombre">Nombre de mascota</string>
+    <string name="pnombre">nombre</string>
+    <string name="num_likes">7</string>
+    <string name="pnum_likes">numLikes</string>
+    <string name="action_settings">Settings</string>
+    <string name="titulo">Petagram</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_mensaje">Escribe tu mensaje aquí</string>
+    <string name="titulo_formulario">Formulario de contacto</string>
+    <string name="title_activity_acercade">AcercadeActivity</string>
+    <string name="btn_enviar">Enviar comentario</string>
+    <string name="correo_enproceso">el correo se está procesado.</string>
+    <string name="correo_enviado">Correo enviado a:  </string>
+    <string name="error_correo">No se pudo enviar correo </string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="titulo_acercade">Acerca de mi</string>
+</resources>
